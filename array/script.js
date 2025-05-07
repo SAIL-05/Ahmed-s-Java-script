@@ -61,5 +61,5 @@ function sum(...numbers){
 }
 
 let total = sum(1, 8 , 9 , 5, 4 , 0 , 3 ,6 );
-console.log(Your total amount is $${total});
+console.log(`Your total amount is $${total}`);
 
